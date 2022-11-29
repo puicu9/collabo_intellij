@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aee0375e-fe06-4dd4-9f75-b8d89666fcea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
+    <list default="true" id="aee0375e-fe06-4dd4-9f75-b8d89666fcea" name="Changes" comment="개발 팀장 '김영훈'의 첫 번째 커밋입니다.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669688172416</updated>
     </task>
+    <task id="LOCAL-00001" summary="개발 팀장 '김영훈'의 첫 번째 커밋입니다.">
+      <created>1669689717297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669689717297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개발 팀장 '김영훈'의 첫 번째 커밋입니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '김영훈'의 첫 번째 커밋입니다." />
   </component>
 </project>
