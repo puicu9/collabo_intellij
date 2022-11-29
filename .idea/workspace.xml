@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aee0375e-fe06-4dd4-9f75-b8d89666fcea" name="Changes" comment="개발 팀장 '김영훈'의 첫 번째 커밋입니다.">
+    <list default="true" id="aee0375e-fe06-4dd4-9f75-b8d89666fcea" name="Changes" comment="pull 하지 않은 데이터를 push 하려고 시도합니다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch01" />
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669689717297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="클론 이후에 신규 파일이 추가되었습니다.">
+      <created>1669691280186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669691280186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pull 하지 않은 데이터를 push 하려고 시도합니다.">
+      <created>1669691890004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669691890004</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="개발 팀장 '김영훈'의 첫 번째 커밋입니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '김영훈'의 첫 번째 커밋입니다." />
+    <MESSAGE value="클론 이후에 신규 파일이 추가되었습니다." />
+    <MESSAGE value="pull 하지 않은 데이터를 push 하려고 시도합니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="pull 하지 않은 데이터를 push 하려고 시도합니다." />
   </component>
 </project>
